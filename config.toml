@@ -1,5 +1,5 @@
-base_url = "https://easydocs.codeandmedia.com"
-title = "Docs"
+base_url = "https://venicteam.github.io"
+title = "Voice Enabled Intelligent Programming Assistant"
 compile_sass = true
 build_search_index = true
 
@@ -8,6 +8,6 @@ highlight_code = true
 highlight_theme = "base16-ocean-light"
 
 [extra]
-logo = "https://easydocs.codeandmedia.com/logo.svg"
-release = "https://api.github.com/repos/getzola/zola/releases/latest"
-favicon = "https://www.getzola.org/favicon.ico"
+logo = "https://venicteam.github.io/logo.png"
+release = "https://api.github.com/repos/venicteam/core/releases/latest"
+favicon = "https://venicteam.github.io/logo.png"
