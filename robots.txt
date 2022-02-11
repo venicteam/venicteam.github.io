@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://venicteam.github.io/sitemap.xml
